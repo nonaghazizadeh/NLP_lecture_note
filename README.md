@@ -1,0 +1,5 @@
+# NLP_lecture_note
+
+I have designed an extensive set of lecture notes for a course in Natural Language Processing, delving into sophisticated subjects such as Recursive Neural Networks. These deep learning models are adept at identifying patterns in sequential and hierarchically structured data. The notes also explore the domain of Contextual Embedding, with a focus on models like TagLM, ELMo, and ULMFit. These groundbreaking models have revolutionized the field by taking into account the context of words within a sentence, thereby enabling a more refined interpretation of language.
+
+Furthermore, the notes elucidate the practical applications of these models in various NLP tasks such as sentiment analysis, machine translation, and named entity recognition. They also provide a comparative analysis of these models, highlighting their strengths and limitations in different scenarios. This comprehensive guide serves as a valuable resource for anyone seeking to understand the intricacies of advanced NLP techniques.
